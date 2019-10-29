@@ -5,7 +5,8 @@ import org.slf4j.LoggerFactory;
 
 public class SlfDemo {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(SlfDemo.class);
+//    private static final Logger LOGGER = LoggerFactory.getLogger(SlfDemo.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger("mytest");
 
     public static void main(String[] args) {
         // 获取classpath路径

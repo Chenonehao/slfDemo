@@ -1,0 +1,6 @@
+2019-10-29 17:14:59,523 [main] TRACE SlfDemo [SlfDemo.java : 26] - trace level
+2019-10-29 17:14:59,526 [main] DEBUG SlfDemo [SlfDemo.java : 27] - debug level
+2019-10-29 17:14:59,526 [main] INFO  SlfDemo [SlfDemo.java : 28] - info level
+2019-10-29 17:14:59,527 [main] ERROR SlfDemo [SlfDemo.java : 29] - error level
+2019-10-29 17:20:03,700 [main] INFO  mytest [SlfDemo.java : 29] - info level
+2019-10-29 17:20:03,703 [main] ERROR mytest [SlfDemo.java : 30] - error level
